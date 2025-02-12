@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello and welcome to my cave
 
-<!--
-**MisterRedFox/MisterRedFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo Isaac soy estudiante del ITTJ desde agosto del 2023 y mi numero de control es 23940394
 
-Here are some ideas to get you started:
+### Datos generales
+años: 21
+color: Humilde
+Estado: Mas solo que nada
+altura: 1,80
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Gustos
+Videojuegos
+Series de terror o suspenso
+La comida Italiana y Japonesa (sin contar la Mexicana)
+Intentar practicar canto
+Mis gatos
+
+### Gustos;t
+El mar
